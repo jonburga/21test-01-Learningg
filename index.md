@@ -1,2 +1,2 @@
-# Soy ander:
+# Soy ander
 ## Profesor de Cutrovientos ##
